@@ -284,9 +284,3 @@ Prediction: good_smash
 ```
 
 ---
-
-## Authors
-
-University of Washington – EE446 TinyML
-
-TinyML Badminton Coach Team
